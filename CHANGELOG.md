@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/kc-workspace/asdf-consul/compare/v1.0.0...v1.0.1) (2023-11-06)
+
+
+### Improvements
+
+* update plugin from template [autocommit] ([aa6210f](https://github.com/kc-workspace/asdf-consul/commit/aa6210fd80680ec75f808c1b850a0263b4a21379))
+* update plugin from template [autocommit] ([11e4902](https://github.com/kc-workspace/asdf-consul/commit/11e4902ae1de7b4905253190f653d7a93ae523a7))
+
 ## 1.0.0 (2023-09-15)
 
 
